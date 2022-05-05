@@ -24,6 +24,26 @@ A data bank to accommodate the main data (master) as a reference in the transact
         Summary : *10 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Bengkulu<br/>
         - > `Province DI Yogyakarta`<br/>
         Summary : *5 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Daerah_Istimewa_Yogyakarta<br/>
+        - > `Province DKI Jakarta`<br/>
+        Summary : *6 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_administrasi_di_Daerah_Khusus_Ibukota_Jakarta<br/>
+        - > `Province Gorontalo`<br/>
+        Summary : *6 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Gorontalo<br/>
+        - > `Province Jambi`<br/>
+        Summary : *11 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Jambi<br/>
+        - > `Province Jawa Barat`<br/>
+        Summary : *27 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Jawa_Barat<br/>
+        - > `Province Jawa Tengah`<br/>
+        Summary : *35 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Jawa_Tengah<br/>
+        - > `Province Jawa Timur`<br/>
+        Summary : *38 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Jawa_Timur<br/>
+        - > `Province Kalimantan Barat`<br/>
+        Summary : *14 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Barat<br/>
+        - > `Province Kalimantan Selatan`<br/>
+        Summary : *13 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Selatan<br/>
+        - > `Province Kalimantan Tengah`<br/>
+        Summary : *14 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Tengah<br/>
+        - > `Province Kalimantan Timur`<br/>
+        Summary : *10 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Timur<br/>
 
 <br/>
 

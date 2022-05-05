@@ -227,13 +227,12 @@ INSERT INTO `countries` VALUES (@COUNTRY_UID, 'Indonesia', @USER_UID, @USER_UID,
         -- ---------------------------------
         -- Records of cities in DKI Jakarta
         -- ---------------------------------
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Jakarta Pusat', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Jakarta Selatan', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Jakarta Utara', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Jakarta Timur', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Jakarta Barat', @USER_UID, @USER_UID, NOW(), NOW());
         INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Kepulauan Seribu', @USER_UID, @USER_UID, NOW(), NOW());
-
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Jakarta Barat', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Jakarta Pusat', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Jakarta Selatan', @USER_UID, @USER_UID, NOW(), NOW());        
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Jakarta Timur', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Jakarta Utara', @USER_UID, @USER_UID, NOW(), NOW());
 
     -- Get Gorontalo States UID for ForeignID in Cities Table
     SET @STATES_UID = UUID();
@@ -420,23 +419,63 @@ INSERT INTO `countries` VALUES (@COUNTRY_UID, 'Indonesia', @USER_UID, @USER_UID,
         -- ----------------------------------------
         -- Records of cities in Kalimantan Selatan
         -- ----------------------------------------
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, '', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, '', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, '', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, '', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, '', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, '', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, '', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, '', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, '', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, '', @USER_UID, @USER_UID, NOW(), NOW());
-        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, '', @USER_UID, @USER_UID, NOW(), NOW());
-
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Balangan', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Banjar', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Barito Kuala', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Hulu Sungai Selatan', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Hulu Sungai Tengah', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Hulu Sungai Utara', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Kotabaru', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Tabalong', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Tanah Bumbu', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Tanah Laut', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Tapin', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Banjarbaru', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Banjarmasin', @USER_UID, @USER_UID, NOW(), NOW());
     
 
+    -- Get Kalimantan Tengah States UID for ForeignID in Cities Table
+    SET @STATES_UID = UUID();
+    INSERT INTO `states` VALUES (@STATES_UID, @COUNTRY_UID, 'Kalimantan Tengah', @USER_UID, @USER_UID, NOW(), NOW());    
+        -- ----------------------------------------
+        -- Records of cities in Kalimantan Tengah
+        -- ----------------------------------------
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Barito Selatan', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Barito Timur', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Barito Utara', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Gunung Mas', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Kapuas', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Katingan', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Kotawaringin Barat', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Kotawaringin Timur', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Lamandau', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Murung Raya', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Pulang Pisau', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Sukamara', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Seruyan', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Palangka Raya', @USER_UID, @USER_UID, NOW(), NOW());
 
-    INSERT INTO `states` VALUES (UUID(), @COUNTRY_UID, 'Kalimantan Tengah', @USER_UID, @USER_UID, NOW(), NOW());
-    INSERT INTO `states` VALUES (UUID(), @COUNTRY_UID, 'Kalimantan Timur', @USER_UID, @USER_UID, NOW(), NOW());
+
+    -- Get Kalimantan Timur States UID for ForeignID in Cities Table
+    SET @STATES_UID = UUID();
+    INSERT INTO `states` VALUES (@STATES_UID, @COUNTRY_UID, 'Kalimantan Timur', @USER_UID, @USER_UID, NOW(), NOW());    
+        -- ----------------------------------------
+        -- Records of cities in Kalimantan Timur
+        -- ----------------------------------------
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Berau', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Kutai Barat', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Kutai Kartanegara', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Kutai Timur', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Mahakam Ulu', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Paser', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kabupaten Penajam Paser Utara', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Balikpapan', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Bontang', @USER_UID, @USER_UID, NOW(), NOW());
+        INSERT INTO `cities` VALUES (UUID(), @STATES_UID, 'Kota Samarinda', @USER_UID, @USER_UID, NOW(), NOW());
+
+
+
+    
     INSERT INTO `states` VALUES (UUID(), @COUNTRY_UID, 'Kalimantan Utara', @USER_UID, @USER_UID, NOW(), NOW());
     INSERT INTO `states` VALUES (UUID(), @COUNTRY_UID, 'Kepulauan Bangka Belitung', @USER_UID, @USER_UID, NOW(), NOW());
     INSERT INTO `states` VALUES (UUID(), @COUNTRY_UID, 'Kepulauan Riau', @USER_UID, @USER_UID, NOW(), NOW());
