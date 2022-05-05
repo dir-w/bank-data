@@ -44,6 +44,44 @@ A data bank to accommodate the main data (master) as a reference in the transact
         Summary : *14 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Tengah<br/>
         - > `Province Kalimantan Timur`<br/>
         Summary : *10 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Timur<br/>
+        - > `Province Kalimantan Utara`<br/>
+        Summary : *5 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kalimantan_Utara<br/>
+        - > `Province Kepulauan Bangka Belitung`<br/>
+        Summary : *7 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kepulauan_Bangka_Belitung<br/>
+        - > `Province Kepulauan Riau`<br/>
+        Summary : *7 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Kepulauan_Riau<br/>
+        - > `Province Kepulauan Lampung`<br/>
+        Summary : *15 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Lampung<br/>
+        - > `Province Kepulauan Maluku`<br/>
+        Summary : *11 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Maluku<br/>
+        - > `Province Kepulauan Maluku Utara`<br/>
+        Summary : *10 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Maluku_Utara<br/>
+        - > `Province Kepulauan Nusa Tenggara Barat`<br/>
+        Summary : *10 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Nusa_Tenggara_Barat<br/>
+        - > `Province Kepulauan Nusa Tenggara Timur`<br/>
+        Summary : *22 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Nusa_Tenggara_Timur<br/>
+        - > `Province Kepulauan Papua`<br/>
+        Summary : *29 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Papua<br/>
+        - > `Province Kepulauan Papua Barat`<br/>
+        Summary : *13 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Papua_Barat<br/>
+        - > `Province Kepulauan Riau`<br/>
+        Summary : *12 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Riau<br/>
+        - > `Province Kepulauan Sulawesi Barat`<br/>
+        Summary : *6 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Barat<br/>
+        - > `Province Kepulauan Sulawesi Selatan`<br/>
+        Summary : *24 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Selatan<br/>
+        - > `Province Kepulauan Sulawesi Tengah`<br/>
+        Summary : *13 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Tengah<br/>
+        - > `Province Kepulauan Sulawesi Tenggara`<br/>
+        Summary : *17 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Tenggara<br/>
+        - > `Province Kepulauan Sulawesi Utara`<br/>
+        Summary : *15 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sulawesi_Utara<br/>
+        - > `Province Kepulauan Sumatera Barat`<br/>
+        Summary : *19 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sumatra_Barat<br/>
+        - > `Province Kepulauan Sumatera Selatan`<br/>
+        Summary : *17 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sumatra_Selatan<br/>
+        - > `Province Kepulauan Sumatera Utara`<br/>
+        Summary : *33 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Sumatra_Utara<br/>
 
 <br/>
 

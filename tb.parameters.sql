@@ -10,7 +10,7 @@ SET FOREIGN_KEY_CHECKS = 0;
 -- Setup User ID
 -- If you already have user table, get it from there
 -- Example : 
--- -- SELECT @USER_UID=ID FROM ###DATABASE_NAME.TABLE_NAME###
+-- -- SELECT @USER_UID := ID FROM ###DATABASE_NAME.TABLE_NAME###
 SET @USER_UID = '05dc1eb4-783f-4492-90da-04f43f73a19d';
 
 
