@@ -25,9 +25,7 @@ A data bank to accommodate the main data (master) as a reference in the transact
         - > `Province DI Yogyakarta`<br/>
         Summary : *5 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Daerah_Istimewa_Yogyakarta<br/>
 
-    - Country : XYZ<br/>
-    States / Provinces : XX | ref : 
-    <br/><br/>    
+<br/>
 
 - <mark>&nbsp;__Parameters__&nbsp;</mark><br/>
     Groups : GENDER | RELIGION | MARITAL | CURRENCY | NATIONALITY
