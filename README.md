@@ -8,12 +8,12 @@ A data bank to accommodate the main data (master) as a reference in the transact
 ## Table of Contents
 
 - <mark>&nbsp;__Countries__&nbsp;</mark><br/>
-    Summary : *145 countries* | ref : https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
+    Summary : *149 countries* | ref : https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes
     <br/><br/>
 
 - <mark>&nbsp;__States / Provinces - Cities__&nbsp;</mark><br/>
     - > __Country : Indonesia__<br/>
-    Summary : *34 provinces* | ref : https://id.wikipedia.org/wiki/Provinsi_di_Indonesia<br/>
+    Summary : *34 provinces* | *514 cities* | ref : https://id.wikipedia.org/wiki/Provinsi_di_Indonesia<br/>
         - > `Province Aceh`<br/>
         Summary : *24 cities* | ref : https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Aceh<br/>
         - > `Province Bali`<br/>
